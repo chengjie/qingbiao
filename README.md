@@ -4,6 +4,12 @@
 
 Windows 本地批量压缩工具。拖入 `.xlsx` 文件或文件夹，选择质量档位，生成压缩副本。无需安装 WPS 或 Excel，运行时不联网、不上传文件。
 
+## 下载
+
+[直接下载 Windows 版 QingBiao.exe](https://github.com/chengjie/qingbiao/releases/latest/download/QingBiao.exe) · [版本说明与 SHA-256 校验文件](https://github.com/chengjie/qingbiao/releases/latest)
+
+适用于 Windows 10/11 x64，单文件约 43 MB，下载后双击运行。
+
 ## 使用
 
 双击单文件 `QingBiao.exe`（可以重命名为“轻表.exe”）即可运行，不需要安装 Python、WPS 或 Excel。启动时会自动解包运行组件到临时目录，首次启动可能需要几秒。
