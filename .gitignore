@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+artifacts/
+.DS_Store
+.env
+.env.*
+*.log
+# Workbooks are user data, never source assets.
+*.xlsx
+*.xls
+*.xlsm
